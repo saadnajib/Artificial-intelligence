@@ -11,8 +11,8 @@ br_list = []
 object_list = []
 
 # constants
-image_folder = 'C:/Users/saad najib/Desktop/idenprof/test/saad'
-savedir = 'C:/Users/saad najib/Desktop/annotations'
+image_folder = 'C:/Users/saad najib/Desktop/idenprof/train/saad'
+savedir = 'C:/Users/saad najib/Desktop/annotations/train/saad'
 obj = 'saad_najib'
 
 
