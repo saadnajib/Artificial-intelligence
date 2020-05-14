@@ -1,0 +1,1 @@
+This project is done on google colab since, they provide greater Ram and GPU for processing.
