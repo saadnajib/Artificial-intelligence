@@ -1,3 +1,4 @@
+#for windows 
 
 import glob
 import shutil
